@@ -1,0 +1,10 @@
+﻿Name of Model ,URL Repository,Type: R package/Python,Publication/Last update,Popularity,Flexibility,Efficiency,Scale,Other Features
+COVID19-ABS,https://github.com/petroniocandido/COVID19_AgentBasedSimulation,Python: 100%,"July 11, 2020",-,-,-,-,-
+COVID Infection Model,https://github.com/metalcorebear/COVID-Agent-Based-Model,Python: 100%,"April 09, 2020",-,-,-,-,-
+Covasim,https://github.com/InstituteforDiseaseModeling/covasim,"Python: 99.7%, Shell: 0.3%","July 17, 2022",-,-,-,-,-
+COVID19-ABM,https://github.com/worldbank/covid19-agent-based-model,"Jupyter Notebook: 50%, HTML: 50%","October 29, 2021",-,-,-,-,-
+Stock Market-ABM,https://github.com/LCfP/Agent-Based-Stock-Market-Model,"Jupyter Notebook: 88%, Python: 12%","February 19, 2018",-,-,-,-,-
+UK Housing-ABM,https://github.com/INET-Complexity/housing-model,"Java: 78%, Python: 22%","October 25, 2021",-,-,-,-,-
+Food and Production Anomalies-ABM,https://github.com/mjpuma/FSC-WorldModelers,"R: 50%, HTML: 40%, Python: 10%","March 20, 2022",-,-,-,-,-
+Dengue Virus Transmission - ABM,https://github.com/bcreiner/socially_structured,R: 100%,"May 28, 2014",-,-,-,-,-
+Mesa - ABM,https://github.com/projectmesa/mesa,"Python: 80%, JavaScript: 20%","August 11, 2022",-,-,-,-,-
