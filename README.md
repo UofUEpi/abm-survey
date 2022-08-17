@@ -1,4 +1,4 @@
-# ABM-survey
+# ABM-Survey
 
 The purpose of this repository is to compile a collection of existing and functioning agent-based models (ABMs) in order to provide insights and potential frameworks for future ABM construction. 
 
